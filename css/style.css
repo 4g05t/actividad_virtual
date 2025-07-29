@@ -61,6 +61,9 @@ footer{
 }
 .center, footer{
     text-align: center;
+    display:flex;
+    flex-direction:row;
+    top:10px;
 }
 
    
